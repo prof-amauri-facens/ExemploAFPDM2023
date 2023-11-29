@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExemploAF</string>
+    <string-array name="categorias">
+        <item>Categoria 1</item>
+        <item>Categoria 2</item>
+        <!-- Adicione quantas categorias desejar -->
+    </string-array>
+</resources>
